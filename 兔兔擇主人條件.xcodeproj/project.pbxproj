@@ -13,6 +13,7 @@
 		5764E2DA264439D60017A68C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5764E2D8264439D60017A68C /* Main.storyboard */; };
 		5764E2DC264439DA0017A68C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5764E2DB264439DA0017A68C /* Assets.xcassets */; };
 		5764E2DF264439DA0017A68C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5764E2DD264439DA0017A68C /* LaunchScreen.storyboard */; };
+		577F680C2644DEE600FDBEC5 /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 577F680B2644DEE600FDBEC5 /* jf-openhuninn-1.1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5764E2DB264439DA0017A68C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5764E2DE264439DA0017A68C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5764E2E0264439DA0017A68C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		577F680B2644DEE600FDBEC5 /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		5764E2D1264439D60017A68C /* 兔兔擇主人條件 */ = {
 			isa = PBXGroup;
 			children = (
+				577F680B2644DEE600FDBEC5 /* jf-openhuninn-1.1.ttf */,
 				5764E2D2264439D60017A68C /* AppDelegate.swift */,
 				5764E2D4264439D60017A68C /* SceneDelegate.swift */,
 				5764E2D6264439D60017A68C /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5764E2DF264439DA0017A68C /* LaunchScreen.storyboard in Resources */,
+				577F680C2644DEE600FDBEC5 /* jf-openhuninn-1.1.ttf in Resources */,
 				5764E2DC264439DA0017A68C /* Assets.xcassets in Resources */,
 				5764E2DA264439D60017A68C /* Main.storyboard in Resources */,
 			);
